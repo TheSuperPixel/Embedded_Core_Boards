@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sdram.h": "c",
+        "usart.h": "c",
+        "stdio.h": "c"
+    }
+}
