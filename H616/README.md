@@ -26,4 +26,5 @@ H616底板的AD工程，已打板测试。当时是在捷配上面打板的，�
 1.Yuzuki Chameleon H616卡片电脑演示视频 https://www.bilibili.com/video/BV1KB4y1z79U<br>
 2.Yuzuki Chameleon H616卡片电脑固件和文档资料 https://github.com/YuzukiHD/YuzukiChameleon<br>
 3.Yuzuki Chameleon H616卡片电脑硬件资料 https://oshwhub.com/gloomyghost/yuzukih616<br>
+This hardware design is a derivative of Yuzuki Chameleon and is licensed under CERN Open Hardware License.
 
