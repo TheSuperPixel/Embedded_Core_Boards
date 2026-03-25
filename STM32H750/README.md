@@ -57,5 +57,6 @@ ov5640摄像头的AD工程。已打板测试，阻抗无要求。功能正常<br
 2.江协科技OLED程序 https://jiangxiekeji.com/download.html<br>
 3.正点原子RGB LCD 液晶屏资料 http://47.111.11.73/docs/industry/4-lcd/4.3-RGBLCD-800480.html<br>
 4.正点原子OV5640资料 http://47.111.11.73/docs/industry/6-other/ov5640.html<br>
-5.正点原子OLED资料 http://47.111.11.73/docs/industry/6-other/OLED.html
+5.正点原子OLED资料 http://47.111.11.73/docs/industry/6-other/OLED.html<br>
+6.CMSIS DAP LINK设计 https://oshwhub.com/Southerly/daplink-fang-zhen-qi-swd
 
