@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/10_flow_led/prj/flow_led.xpr">
+<Project Version="7" Minor="54" Path="flow_led.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="1d5c2041bd574b1e8d50ac63af174c73"/>

@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/11_key_led/prj/key_led.xpr">
+<Project Version="7" Minor="54" Path="key_led.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="455165a5485d490297cad9999356e4ee"/>

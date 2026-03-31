@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/29_top_lcd_touch/prj/top_lcd_touch.xpr">
+<Project Version="7" Minor="54" Path="top_lcd_touch.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="54550c126a5a42d1a91b8d90ffcdbbe5"/>

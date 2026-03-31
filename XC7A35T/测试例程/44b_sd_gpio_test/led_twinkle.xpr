@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga_2/44b_sd_gpio_test/sd_gpio_test.xpr">
+<Project Version="7" Minor="54" Path="sd_gpio_test.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="ef1cf17ede764e9cb97a842924c15a85"/>

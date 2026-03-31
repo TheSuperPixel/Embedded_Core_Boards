@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/38_top_ddr3_rw/prj/top_ddr3_rw.xpr">
+<Project Version="7" Minor="54" Path="top_ddr3_rw.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="82285490640447bbaedf4ed85ae72530"/>

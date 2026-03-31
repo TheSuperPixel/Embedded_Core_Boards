@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/39_ov5640_gpio_test/led_twinkle.xpr">
+<Project Version="7" Minor="54" Path="led_twinkle.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="ef1cf17ede764e9cb97a842924c15a85"/>

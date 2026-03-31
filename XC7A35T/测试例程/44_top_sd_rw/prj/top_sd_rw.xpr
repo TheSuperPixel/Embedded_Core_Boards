@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/44_top_sd_rw/prj/top_sd_rw.xpr">
+<Project Version="7" Minor="54" Path="top_sd_rw.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="2afe84614a264b47b81a358dd72093d2"/>

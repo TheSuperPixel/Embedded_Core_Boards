@@ -3,7 +3,7 @@
 <!--                                                         -->
 <!-- Copyright 1986-2020 Xilinx, Inc. All Rights Reserved.   -->
 
-<Project Version="7" Minor="54" Path="C:/Users/28327/Desktop/test_fpga/39_ov5640_lcd/prj/ov5640_lcd.xpr">
+<Project Version="7" Minor="54" Path="ov5640_lcd.xpr">
   <DefaultLaunch Dir="$PRUNDIR"/>
   <Configuration>
     <Option Name="Id" Val="842e676802954e2d944c447c4b09fa03"/>
